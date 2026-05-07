@@ -1,6 +1,6 @@
 package mesin;
 public class Mesin {
-    public int jml_silinder;
-    public double kap_silinder;
+    public int jmlSilinder;
+    public double kapSilinder;
     public String langkah;
 }
